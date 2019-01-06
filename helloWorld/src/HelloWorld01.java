@@ -19,6 +19,8 @@ public class HelloWorld01 {
         list.add("唐僧");
         list.add("观音菩萨");
         list.add("如来佛");
+
+        list.add("黄蓉");
         return list;
     }
 
