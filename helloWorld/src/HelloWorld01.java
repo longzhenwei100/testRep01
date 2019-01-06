@@ -11,7 +11,18 @@ public class HelloWorld01 {
     }
 
     private static List<String> processList(List<String> list){
+
         list.add("主分支");
+
+        list.add("孙悟空");
+        list.add("沙和尚");
+        list.add("猪八戒");
+        list.add("唐僧");
+        list.add("观音菩萨");
+        list.add("如来佛");
+
+        list.add("黄蓉");
+
         return list;
     }
 
